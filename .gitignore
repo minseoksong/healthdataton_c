@@ -1,0 +1,11 @@
+# 환자 단위 데이터·결과는 올리지 않음 (KHDP 데이터 이용 조건)
+*.xlsx
+*.parquet
+*.pkl
+*.npy
+*.csv
+out/
+pkl/
+*.html
+.DS_Store
+__pycache__/
